@@ -5,8 +5,9 @@ To schedule the backup you can use crontab.
 # Manual
 
 Make the file backup.sh executable with the following command :
+```
 chmod +x backup.sh
-
+```
 To schedule the backup :
 ```
 sudo crontab -e
