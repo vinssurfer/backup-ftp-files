@@ -3,7 +3,7 @@
 sudo apt install sendemail -y
 
 # Constants you need to modify
-HOST=serveur_ftp
+HOST=ftp_server
 LOGIN=login
 PASSWORD=password
 PORT=21
